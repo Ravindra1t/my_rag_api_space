@@ -1,0 +1,10 @@
+fastapi
+transformers
+accelerate
+torch
+faiss-cpu
+uvicorn
+sentence-transformers
+pymupdf
+httpx
+python-multipart
